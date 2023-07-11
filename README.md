@@ -1,2 +1,2 @@
 # Cryptography
-Our project focuses on developing a user-friendly encryption and decryption tool for secret messages using Python. This tool provides a graphical user interface (GUI) that allows users to encrypt their messages using various encryption algorithms and decrypt them back to their original form. The objective is to provide a secure and efficient solution for protecting sensitive information.
+Cryptify is a Python-based GUI tool that enables users to encrypt and decrypt secret messages. Our project focuses on creating a user-friendly solution for protecting sensitive information. With Cryptify, users can encrypt their messages using various encryption algorithms and decrypt them back to their original form effortlessly.
