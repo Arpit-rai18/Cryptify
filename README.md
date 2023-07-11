@@ -1,2 +1,2 @@
 # Cryptography
-Creating Secret Message Encryption and Decryption Tool in Python with GUI
+Our project focuses on developing a user-friendly encryption and decryption tool for secret messages using Python. This tool provides a graphical user interface (GUI) that allows users to encrypt their messages using various encryption algorithms and decrypt them back to their original form. The objective is to provide a secure and efficient solution for protecting sensitive information.
